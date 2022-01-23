@@ -15,3 +15,5 @@ torch_MNSIT.py implements the training of neural networks facing the MNIST class
 data_handling.py creates the functions used to extract and update the synaptic parameters of the models created via torch_MNIST.py.
 
 non_idealities.py implements the non-idealities considered in this work and the measure of its effects. 
+
+You can find the associated Msc Dissertation here: https://sites.google.com/view/vzamora/assignments
